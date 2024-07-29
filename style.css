@@ -1,3 +1,28 @@
-body {
-    background-color: white;
+#presentacion {
+    height: 90vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.proyecto {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#proyecto-1 {
+    background-image: url('logo.png');
+}
+
+#proyecto-2 {
+    background-image: url('perrito.jpg');
+}
+
+#proyecto-3 {
+    background-image: url('logo.png');
+}
+
+.text-shadow-1 {
+    text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
 }
