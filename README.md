@@ -29,4 +29,4 @@ Proyecto desplegado: proximamente
 
 ---
 
-Desarrollado con  ![img](https://st1.zoom.us/fe-static/fe-emoji/0.0.1.7/resource/1f49c.svg) por [Stivy](https://github.com/StivyZavaleta/) en [TECHNOLOCHICAS PRO]([https://tecnolochicas.mx/)
+Desarrollado con  ![img](https://st1.zoom.us/fe-static/fe-emoji/0.0.1.7/resource/1f49c.svg) por [Stivy](https://github.com/StivyZavaleta/) en [TECNOLOCHICAS](https://tecnolochicas.mx/)
